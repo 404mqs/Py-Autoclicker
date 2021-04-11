@@ -6,9 +6,21 @@ This is a simple autoclicker made with Python. You need to install Python3 to us
 </p>
 
 # Usage:
+<p>
 1- Install Python3
+</p>
+<p>
 2- Use the cmd to use the python interpreter in the autoclicker file or just execute it.
+</p>
+<p>
 3- Write how many times you want to press the button.
+</p>
+<p>
 4- Write how many milliseconds do you want to wait in between each click
+</p>
+<p>
 5- Choose 1 (Left) or 2 (Right) to specify the button of the mouse
+</p>
+<p>
 6- Enjoy
+</p>
