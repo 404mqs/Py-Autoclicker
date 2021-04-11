@@ -13,17 +13,17 @@ This is a simple autoclicker made with Python. You need to install Python3 to us
 2- Install pyautogui. Use: pip install pyautogui
 </p>
 <p>
-2- Use the cmd to use the python interpreter in the autoclicker file or just execute it.
+3- Use the cmd to use the python interpreter in the autoclicker file or just execute it.
 </p>
 <p>
-3- Write how many times you want to press the button.
+4- Write how many times you want to press the button.
 </p>
 <p>
-4- Write how many milliseconds do you want to wait in between each click
+5- Write how many milliseconds do you want to wait in between each click
 </p>
 <p>
-5- Choose 1 (Left) or 2 (Right) to specify the button of the mouse
+6- Choose 1 (Left) or 2 (Right) to specify the button of the mouse
 </p>
 <p>
-6- Enjoy
+7- Enjoy
 </p>
