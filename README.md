@@ -10,6 +10,9 @@ This is a simple autoclicker made with Python. You need to install Python3 to us
 1- Install Python3
 </p>
 <p>
+2- Install pyautogui. Use: pip install pyautogui
+</p>
+<p>
 2- Use the cmd to use the python interpreter in the autoclicker file or just execute it.
 </p>
 <p>
